@@ -1,0 +1,330 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+
+
+ul li{
+  list-style: none;
+  float: left;
+  line-height: 40px;
+  padding-top: 20px;
+}
+
+.imgenn{
+
+    background-image: url('forest5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.logo{
+  color: white;
+  font-size: 29px;
+  padding: 0 40px;
+  font-variant-caps: all-small-caps;
+  font-family: system-ui;
+  font-weight: lighter;
+  padding-top: 15px;
+  text-shadow: 1px 1px 2px silver, 0 0 1em silver, 0 0 0.2em silver, 1px 1px 2px silver;
+}
+
+ul li a{
+  font-family: system-ui;
+  text-decoration: none;
+  font-size: 17px;
+  padding: 0 70px;
+
+  color: white;
+  transition: 0.8s all
+}
+
+ul li a:hover{
+
+   color: red;
+   text-decoration: underline;
+}
+
+
+
+
+ul li.head2{
+  font-size: 40px;
+  padding-top: 20px;
+  font-weight:bold;
+  font-family: sans-serif;
+  color: white;
+  padding-left: 40px;
+  text-decoration: underline;
+}
+.head3{
+  font-size: 40px;
+  padding-top: 20px;
+  font-weight:bold;
+  font-family: sans-serif;
+  color: black;
+  padding-left: 40px;
+  text-decoration: underline;
+}
+.container6{
+   display: flex;
+   align-items: flex-start;
+
+}
+
+.container46{
+   display: flex;
+   align-items: flex-start;
+
+}
+
+.text26{
+  padding-top: 50px;
+  font-size: 30px;
+  font-weight:bold;
+  font-family: sans-serif;
+  color: white;
+}
+
+.text46{
+  padding-top: 50px;
+  font-size: 30px;
+  font-weight:bold;
+  font-family: sans-serif;
+  color: black;
+}
+
+.image46{
+  padding-left: 40px;
+}
+
+ul li.text6{
+
+  color: white;
+  padding-top: 20px;
+  padding: 0 10px;
+  font-size:15px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  padding-right: 40px;
+  padding-left: 40px;
+
+}
+.intro{
+  font-size: 42px;
+  color:white;
+
+  padding-left: 470px;
+  font-family: system-ui;
+
+}
+
+.text24{
+  padding-top: 20px;
+  padding: 0 10px;
+  font-size:60px;
+  padding-left:20px;
+  font-family: system-ui;
+  padding-right: 20px;
+
+}
+
+.text25{
+  padding-top: 20px;
+  padding: 0 10px;
+  font-size:60px;
+  padding-left:20px;
+  font-family: system-ui;
+  padding-right: 20px;
+  color: white;
+
+}
+
+.text29{
+  padding-top: 20px;
+  padding: 0 10px;
+  font-size:60px;
+  padding-left:20px;
+  font-family: system-ui;
+  padding-right: 20px;
+
+}
+
+.text22{
+  padding-top:20px;
+  padding: 0 10px;
+  font-size:23px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.text23{
+  padding-top:20px;
+  padding: 0 10px;
+  font-size:23px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  padding-right: 20px;
+  color:white;
+  padding-left: 20px;
+}
+
+.text28{
+  padding-top:20px;
+  padding: 0 10px;
+  font-size:23px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  padding-right: 20px;
+
+}
+
+ul li.text{
+
+  color: white;
+  padding-top: 20px;
+  padding: 0 10px;
+  font-size:24px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  padding-right: 40px;
+  padding-left: 40px;
+
+}
+
+.text36{
+  color: black;
+  padding-top: 20px;
+  padding: 0 10px;
+  font-size:17px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  padding-right: 40px;
+  padding-left: 40px;
+
+}
+
+
+.main{
+
+  color: white;
+  font-size: 28px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  padding: 0 100px;
+}
+
+
+.imge{
+  position: absolute;
+  float: right;
+  padding-left: 0px;
+}
+
+
+.pho{
+  position: absolute;
+  float: right;
+}
+
+.princ{
+  padding: 0 190px;
+  font-family: monospace;
+  font-size: 32px;
+  color: white;
+}
+
+.pric2{
+  padding: 0 100px;
+  font-family: sans-serif;
+  font-size: 28px;
+  color: black;
+}
+
+.cont{
+  font-family: monospace;
+  font-size: 25px;
+}
+
+.container{
+
+  height: 700px;
+  background: #253342;
+}
+
+.bnry{
+  float: right;
+}
+
+.text2{
+    padding: 0 100px;
+    font-size: 45px;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+.pric3{
+  padding: 0 100px;
+  font-family: sans-serif;
+  font-size: 45px;
+  color: black;
+}
+
+.imgen{
+  padding: 0 180px;
+
+}
+
+.container{
+  height: 160px;
+  background: #212122;
+
+}
+
+.fonte{
+  color: white;
+  padding: 0 440px;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+.container36{
+  height: 970px;
+  background: white;
+
+}
+
+.container3{
+  height: 600px;
+  background: white;
+
+}
+
+.container22{
+  height: 800px;
+  background: white;
+
+}
+
+
+.container23{
+  height: 900px;
+  background: black;
+}
+
+.container27{
+  height: 900px;
+  background: white;
+}
+
+ul li.city{
+  padding: 0 100px;
+  text-decoration: none;
+
+}
